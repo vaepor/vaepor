@@ -9,4 +9,4 @@ My name is Vaepor. I am currently learning Typescript by creating amazing projec
 
 ![Vaepor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaepor&count_private=true&theme=dracula)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaepor&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaepor&theme=dracula&layout=compact)
