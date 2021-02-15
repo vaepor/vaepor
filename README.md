@@ -7,6 +7,6 @@ My name is Vaepor. I am currently learning Typescript by creating amazing projec
 - 💬 Ask me about anything
 - 📫 How to reach me: write@vaepor.org
 
-![Vaepor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaepor&count_private=true&theme=dracula)
+![Vaepor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaepor&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaepor&theme=dracula&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaepor&layout=compact)
